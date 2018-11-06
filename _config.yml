@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: Slayter Development
+description: The Personal Website of Bradley Slayter
+author: Bradley Slayter
+github: https://github.com/SlayterDev
+about: I am a Full Stack Software Engineer currently employed by Ensighten. In my spare time I pursue all manner of tech projects. I also love homebrewing.
+disqus_shortname: needed
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -16,16 +16,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/bradley-slayter-288034149/"
     - icon: fa-stack-exchange
-      link: "#"
+      link: "https://stackoverflow.com/users/1141625/slayter"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/SlayterDev"
 
 share:
   twitter_username: agusmakmun6

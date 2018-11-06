@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am a Full Stack Software Engineer currently employed by Ensighten. In my spare time I pursue all manner of tech projects. I also love homebrewing.
 
-email: agus[at]python.web.id
+This website will serve to showcase my personal projects and any other ramblings I may decide to post. In the sidebar you'll find links to my github, stackoverflow, and linkedin profile.
